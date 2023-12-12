@@ -5,7 +5,7 @@ I'm a backend software engineer, geek, and avid builder
 -------------------------------------------------------
 
 * 🌍  I'm based in Bucharest
-* 🖥️  See my portfolio at [tetr.dev](http://tetr.dev)
+* 🖥️  See my blog at [tetr.dev](http://tetr.dev)
 * ⚡  I like hinking and hanging out with my small group of friends.
 
 ### Skills
